@@ -7,7 +7,7 @@ I am Samuel Façanha, a brazilian Computer Engineering student;
 
 I am a beginner programmer and an enthusiast of most technologies;
 
-Recently mostly studying web development technologies;
+Recently I am mostly studying web development;
 
 Technologies I am familiar with: C++;
 
