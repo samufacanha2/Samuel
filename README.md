@@ -1,6 +1,5 @@
-## Welcome to my profile! 
+# Welcome to my profile! 
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samufacanha@gmail.com)](mailto:samufacanha@gmail.com)
 
 ### About Me
 
@@ -25,3 +24,5 @@ My hobbies are mostly playing videogames, reading, watching stuff online and lea
 <hr>
 
 Contact me via e-mail if i can help you with anything.
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samufacanha@gmail.com)](mailto:samufacanha@gmail.com)
