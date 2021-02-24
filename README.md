@@ -3,7 +3,7 @@
 
 ### About Me
 
-I am Samuel Façanha, a brazilian Computer Engineering student;
+Hi! I am Samuel Façanha, a brazilian Computer Engineering student;
 
 I am a beginner programmer and an enthusiast of most technologies;
 
@@ -14,6 +14,7 @@ Technologies I am familiar with: C++;
 Techs I am Learning: React, CSS, HTML, Python, Strapi, SQLite;
 
 Techs I barely touched: R, Java.
+
 
 <hr>
 
