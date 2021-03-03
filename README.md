@@ -9,9 +9,7 @@ I am a beginner programmer and an enthusiast of most technologies;
 
 Recently I am mostly studying web development;
 
-Technologies I am familiar with: C++;
-
-Techs I am Learning: React, CSS, HTML, Python, Strapi, SQLite;
+Techs I am Learning: Javascript(React, Node.js, Next.js), CSS, HTML, Python, Strapi, SQLite, C++;
 
 Techs I barely touched: R, Java.
 
