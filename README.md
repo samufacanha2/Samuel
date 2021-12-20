@@ -5,11 +5,11 @@
 
 Hi! I am Samuel Façanha, a brazilian Computer Engineering student;
 
-I am a trainee developer and an enthusiast of most technologies;
+I am a junior developer and an enthusiast of most technologies;
 
 Recently I am mostly studying web development;
 
-Techs I am studying: Javascript(React, Node.js, Next.js, Svelte, etc.), CSS, HTML, SQL and MongoDB;
+Techs I am studying: Javascript(React, Node.js, Next.js, Svelte, etc.), CSS, HTML, GO, SQL and MongoDB;
 
 
 <hr>
