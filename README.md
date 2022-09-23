@@ -9,8 +9,9 @@ I am a fullstack developer and an enthusiast of most technologies;
 
 Recently I am mostly studying software architecture, clean code and how to be a better leader;
 
-Techs I am proficient with: React, Next.js, Javascript, CSS, HTML and GO;
+Techs I am proficient with: ![](https://img.shields.io/badge/React-Web-informational?style=flat&logo=react&logoColor=a9fef7&color=4F4789) ![](https://img.shields.io/badge/NextJS-Web-informational?style=flat&logo=next.js&logoColor=a9fef7&color=4F4789) ![](https://img.shields.io/badge/Javascript-Web-informational?style=flat&logo=javascript&logoColor=a9fef7&color=4F4789) ![](https://img.shields.io/badge/CSS-Web-informational?style=flat&logo=css3&logoColor=a9fef7&color=4F4789) ![](https://img.shields.io/badge/HTML-Web-informational?style=flat&logo=html5&logoColor=a9fef7&color=4F4789) and ![](https://img.shields.io/badge/GO-Applications-informational?style=flat&logo=go&logoColor=a9fef7&color=4F4789);
 
+<!-- https://simpleicons.org/ more icons for the badges!  -->
 
 <hr>
 
