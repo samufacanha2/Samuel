@@ -5,22 +5,22 @@
 
 Hi! I am Samuel Façanha, a brazilian Computer Engineering student;
 
-I am a junior developer and an enthusiast of most technologies;
+I am a fullstack developer and an enthusiast of most technologies;
 
-Recently I am mostly studying web development;
+Recently I am mostly studying software architecture, clean code and how to be a better leader;
 
-Techs I am studying: Javascript(React, Node.js, Next.js, Svelte, etc.), CSS, HTML, GO, SQL and MongoDB;
+Techs I am proficient with: React, Next.js, Javascript, CSS, HTML and GO;
 
 
 <hr>
 
 ### Hobbies
 
-My hobbies are mostly playing videogames, reading, watching stuff online and learning new things.
+My hobbies are mostly playing videogames, 3D printing, reading, watching stuff online and learning new things.
 
 <hr>
 
-<- Contact me via e-mail if I can help you with anything.
+Contact me via e-mail if I can help you with anything.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samufacanha@gmail.com)](mailto:samufacanha@gmail.com)
 
