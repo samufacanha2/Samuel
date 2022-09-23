@@ -3,7 +3,7 @@
 
 ### About Me
 
-Hi! I am Samuel Façanha, a brazilian Computer Engineering student;
+Hi! I am Samuel Façanha, a brazilian Computer Science student;
 
 I am a fullstack developer and an enthusiast of most technologies;
 
