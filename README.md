@@ -25,4 +25,4 @@ Contact me via e-mail if I can help you with anything.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samufacanha@gmail.com)](mailto:samufacanha@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/samuelfaçanha/)](https://www.linkedin.com/in/samuelfaçanha/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/samuelfaçanha/)](https://www.linkedin.com/in/samuelfacanha/)
