@@ -15,12 +15,6 @@ Techs I am proficient with: ![](https://img.shields.io/badge/React-Web-informati
 
 <hr>
 
-### Hobbies
-
-My hobbies are mostly playing videogames, 3D printing, reading, watching stuff online and learning new things.
-
-<hr>
-
 Contact me via e-mail if I can help you with anything.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samufacanha@gmail.com)](mailto:samufacanha@gmail.com)
